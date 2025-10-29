@@ -4,10 +4,11 @@ import os
 # --- 1. CONFIGURE YOUR TEST ---
 
 # The URL of your locally running API
-API_URL = "http://127.0.0.1:8080/predict" 
+API_URL = "http://192.168.0.185:8080/predict" 
 
 # The path to the cow image you want to test
-IMAGE_PATH = "path/to/your/test_cow.jpg" # <--- IMPORTANT: Change this!
+IMAGE_PATH = r"C:\Users\naman\Cow-BCS-Project\images\Ayrshirecattle0_jpg.rf.109b38b256521bd26ac1135b282bc99e.jpg" 
+# <--- IMPORTANT: Change this!
 
 # --- 2. RUN THE TEST ---
 
