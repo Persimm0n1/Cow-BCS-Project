@@ -208,10 +208,7 @@ __marimo__/
 
 # My custom ignores
 models/
-*.pt
-*.h5
-*.json
-*.csv
+
 
 # Python
 __pycache__/
