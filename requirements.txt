@@ -1,0 +1,8 @@
+flask
+gunicorn
+ultralytics
+tensorflow
+xgboost
+pandas
+numpy
+Pillow
